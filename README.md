@@ -3,6 +3,7 @@
 ## Overview
 
 The Smart Insole project leverages pressure distribution data to revolutionize footwear design and selection. This project integrates both hardware and software components to analyze foot pressure patterns during various activities, providing solutions for optimized footwear selection and customization.
+   ![setup](https://github.com/user-attachments/assets/7876271d-338b-4406-b8ca-56dee24386df)
 
 ## Features
 
@@ -65,4 +66,4 @@ The Smart Insole project leverages pressure distribution data to revolutionize f
 
 
 
-![setup](https://github.com/user-attachments/assets/7876271d-338b-4406-b8ca-56dee24386df)
+
